@@ -1,3 +1,7 @@
+#To test this 
+if result gets 1 the sentence is not sensitive if result gets 0 the sentence is sensitive.
+#You can pass as much as sentences Separated by full stop 
+
 # Sentiment-detection with quarkus
 
 This is a minimal CRUD service exposing a couple of endpoints over REST.

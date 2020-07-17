@@ -3,7 +3,7 @@ https://sentiment-detector.herokuapp.com/
 
 This is fully functional API for parsing text to check if its sensitive(which simply leads to stress) or normal. 
 
-# To test this 
+# To test this  on your local machine
 if result gets 1 the sentence is not sensitive if result gets 0 the sentence is sensitive.
 #You can pass as much as sentences Separated by full stop 
 

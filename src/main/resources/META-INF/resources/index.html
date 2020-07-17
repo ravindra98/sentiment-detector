@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <script type="text/javascript">
+
+function testsentence(sentence) {
+var url="/sentiment/sentence="+sentence;
+
+window.location=url;
+}
+
+</script>
+
+<body>
+<form action="#">
+<div id="container">
+     if result gets 1 the sentence is not sensitive
+    if result gets 0 - the sentence is sensitive. 
+    You can pass as much as sentences Separated by full stop . .
+    <input type="text" id="sentence" name="sentence"/>
+    <input type="button" value="check sensitivity of  th text" onclick="testsentence(getElementById('sentence').value)"/>
+</div>
+</form>
+</body>    
+</body>
+
+</html>

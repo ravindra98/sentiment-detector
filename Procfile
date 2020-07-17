@@ -1,0 +1,1 @@
+web: java -jar /target/sentiment-detector-1.0-SNAPSHOT-runner.jar

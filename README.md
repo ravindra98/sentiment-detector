@@ -67,7 +67,7 @@ First compile it:
 
 Then run it:
 
-> java -jar ./target/getting-started-1.0-SNAPSHOT-runner.jar
+> java -jar ./target/sentiment-detector-1.0-SNAPSHOT-runner.jar 
 
 Have a look at how fast it boots, or measure the total native memory consumption.
 
